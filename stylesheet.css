@@ -1,0 +1,288 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.thankyou-button {
+    color: white;
+    background-color: blue;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.thankyou-section-img {
+    width: 270px;
+}
+
+.thankyou-section-heading {
+    font-size: 26px;
+    color: black;
+}
+
+.thankyou-section-descrpition {
+    font-size: 16px;
+    font-family: Roboto;
+    font-weight: 400;
+}
+
+
+.thankyou-section {
+    background-color: #d0b2001a;
+}
+
+.payment-image {
+    width: 50px;
+    height: 50px;
+    margin-right: 25px;
+}
+
+.delivery-payment-button {
+    color: white;
+    background-color: #c9c304;
+    width: 130px;
+    font-family: Roboto;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.delivery-payment-section {
+    background-color: white;
+}
+
+.delivery-payment-section-img {
+    width: 275px;
+}
+
+.delivery-payment-heading {
+    font-size: 26px;
+    color: #262626;
+}
+
+.delivery-payment-descrpition {
+    font-size: 16px;
+    font-family: Roboto;
+    color: black;
+    font-weight: 400;
+
+}
+
+.healty-section-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.healthy-section-descrption {
+    font-size: 18px;
+    font-family: Roboto;
+    color: #3b3b3b;
+    font-weight: 400;
+}
+
+.healthy-section-heading {
+    font-size: 28px;
+    color: #1f1f1f;
+}
+
+.healthy-food-plate-img {
+    width: 285px;
+}
+
+.healthy-food-section {
+    background-color: #f9fbfe;
+}
+
+.banner {
+    background-image: url('https://t4.ftcdn.net/jpg/02/92/20/37/360_F_292203735_CSsyqyS6A4Z9Czd4Msf7qZEhoxjpzZl1.jpg');
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-h1 {
+    color: white;
+    font-size: 35px;
+}
+
+.text-cen {
+    text-align: center;
+}
+
+.button {
+    background-color: green;
+    margin-bottom: 15px;
+    margin-right: 10px;
+    font-family: Roboto;
+    font-weight: 400;
+    color: white;
+    height: 90px;
+    width: 260px;
+    font-size: 40px;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.button-1 {
+    color: white;
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 50px;
+    height: 90px;
+    width: 260px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: white;
+    background-color: transparent;
+}
+
+.banner-p {
+    color: yellow;
+    font-size: 38px;
+    font-family: Roboto;
+}
+
+
+#nav-1 {
+    font-family: Roboto;
+    color: black;
+    font-weight: 700;
+    font-size: 22px;
+}
+
+#nav-1:hover {
+    color: green;
+}
+
+#nav-2 {
+    font-family: Roboto;
+    color: black;
+    font-weight: 700;
+    font-size: 22px;
+}
+
+#nav-2:hover {
+    color: green;
+}
+
+#nav-3 {
+    font-family: Roboto;
+    color: black;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+#nav-3:hover {
+    color: green;
+}
+
+#nav-4 {
+    font-family: Roboto;
+    color: black;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+#nav-4:hover {
+    color: green;
+}
+
+#nav-5 {
+    font-family: Roboto;
+    color: black;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.img {
+    height: 70px;
+    width: 70px;
+}
+
+.image-new {
+    height: 90px;
+    border-radius: 10px;
+}
+
+.wcu-section {
+    background-color: white;
+    height: 100%;
+    background-size: cover;
+}
+
+.wcu-container-heading {
+    font-size: 25px;
+    font-weight: 700;
+    color: #212121;
+}
+
+.wcu-card-para {
+    font-size: 18px;
+    color: white;
+}
+
+.wcu-container-2 {
+    background-color: grey;
+    text-align: center;
+    font-family: Roboto;
+    font-weight: 400;
+    border-style: solid;
+    border-radius: 8px;
+}
+
+.wcu-card-haeding {
+    font-size: 25px;
+    color: yellow;
+    font-weight: 400;
+}
+
+
+.wcu-container-para {
+    color: black;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 800;
+}
+
+.menu-item-link {
+    color: #a2b028;
+    font-size: 18px;
+
+}
+
+.menu-item-title {
+    color: black;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 15px;
+}
+
+.menu-title {
+    color: black;
+    font-size: 25px;
+    font-family: Roboto;
+    font-weight: 700;
+}
+
+.menu-item-image {
+    border-radius: 16px;
+}
+
+.menu-card {
+    background-color: white;
+    border-radius: 18px;
+}
+
+.explore-menu-section {
+    background-color: #f7f7f5;
+}
+
+* {
+    margin: 0;
+}
