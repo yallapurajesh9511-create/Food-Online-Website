@@ -201,7 +201,9 @@
 
 .img {
     height: 70px;
-    width: 70px;
+    width: 60px;
+    padding-bottom: 15px;
+
 }
 
 .image-new {
