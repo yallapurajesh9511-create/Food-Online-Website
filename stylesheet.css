@@ -1,5 +1,132 @@
 @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
 
+
+
+.hr {
+    background-color: white;
+}
+
+.Contact-phone {
+    color: #c9c2c1;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.footer-line {
+    color: white;
+    font-family: Roboto;
+    font-size: 9px;
+    font-weight: 700;
+}
+
+.Resources {
+    color: white;
+    font-family: Roboto;
+    font-size: 19px;
+    font-weight: 700;
+}
+
+.products {
+    color: white;
+    font-family: Roboto;
+    font-size: 19px;
+    font-weight: 700;
+}
+
+.location-head {
+    color: white;
+    font-family: Roboto;
+    font-size: 19px;
+    font-weight: 700;
+}
+
+.location-adress {
+    color: #c9c2c1;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.mail-id {
+    color: white;
+    font-family: Roboto;
+    font-size: 19px;
+    font-weight: 700;
+}
+
+.mail-text {
+    color: #c9c2c1;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.about-us {
+    color: white;
+    font-family: Roboto;
+    font-size: 19px;
+    font-weight: 700;
+}
+
+.Contact-para {
+    color: white;
+    font-family: Roboto;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.Contact-heading {
+    color: white;
+    font-family: Roboto;
+    font-size: 19px;
+    font-weight: 700;
+
+}
+
+.footer-heading {
+    color: white;
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: 700;
+    position: relative;
+    bottom: 15px;
+}
+
+.footer-para {
+    color: orange;
+    font-family: Roboto;
+    font-size: 9px;
+    font-weight: 700;
+    position: relative;
+    bottom: 28px;
+    left: 48px;
+
+}
+
+.list {
+    color: #c9c2c1;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 700;
+    list-style-type: none;
+}
+
+.food-footer-section {
+    background-color: #192885;
+    height: 100%;
+}
+
+.footer-image {
+    width: 50px;
+    height: 50px;
+    border-style: solid;
+    border-radius: 30px;
+    background-color: white;
+
+}
+
+
 .thankyou-button {
     color: white;
     background-color: blue;
